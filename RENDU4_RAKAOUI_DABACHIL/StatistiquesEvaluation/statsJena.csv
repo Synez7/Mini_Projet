@@ -1,0 +1,2 @@
+nom du fichier de données,nom du dossier des requêtes ,nombre de triplets RDF,nombre de requêtes, temps de lecture des données (ms), temps de lecture des requêtes (ms),temps création dico (ms),nombre d'index,temps de création des index (ms), temps total d'évaluation du workload (ms), Temps exec total(ms)
+testDataAndQuerySet\100K.nt,testDataAndQuerySet\STAR_ALL_workload.queryset,107338,1206,1,5,623,6,346,1281,2258,
